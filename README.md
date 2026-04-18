@@ -38,3 +38,6 @@ Sprinting (if considered later on): Left Shift
 Interact/Pick up: E 
 
 This is just the beginning of the project nothing special added yet 4/12/26 
+
+4/18/26: Deleted the current files because Cesium supports 2021.3.2 and later 
+
