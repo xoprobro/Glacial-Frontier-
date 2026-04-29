@@ -33,7 +33,7 @@ Move RIght: D
 
 Jump: Spacebar
 
-Sprinting (if considered later on): Left Shift
+Sprinting: Left Shift
 
 Interact/Pick up: E 
 
